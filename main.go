@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set1.Q1("aabbccddee"),
+		set1.Q2("camel case word"),
 	)
 }
