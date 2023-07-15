@@ -18,3 +18,5 @@ Q8. Array Diff: https://www.codewars.com/kata/523f5d21c841566fde000009
 Q9. Stop gninnipS My sdroW!: https://www.codewars.com/kata/5264d2b162488dc400000001
 
 Q10. Bit Counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
+
+Q11. Duplicate Encoder: https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
