@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set1.Q23(625),
+		set1.Q24(4),
 	)
 }
