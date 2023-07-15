@@ -16,3 +16,5 @@ Q7. Sum of Digits / Digital Root: https://www.codewars.com/kata/541c8630095125ab
 Q8. Array Diff: https://www.codewars.com/kata/523f5d21c841566fde000009
 
 Q9. Stop gninnipS My sdroW!: https://www.codewars.com/kata/5264d2b162488dc400000001
+
+Q10. Bit Counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
