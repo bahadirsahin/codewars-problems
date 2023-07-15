@@ -7,9 +7,7 @@ import (
 )
 
 func main() {
-	arr := []int{1, 2, 2, 3, 3, 3, 4, 3, 3, 3, 2, 2, 1}
-
 	spew.Dump(
-		set1.Q5(arr),
+		set1.Q6("1 9 3 4 -5"),
 	)
 }
