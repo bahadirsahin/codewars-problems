@@ -40,3 +40,5 @@ Q19. Convert string to camel case: https://www.codewars.com/kata/517abf86da9663f
 Q20. Moving Zeros To The End: https://www.codewars.com/kata/52597aa56021e91c93000cb0
 
 Q21. Your order, please: https://www.codewars.com/kata/55c45be3b2079eccff00010f
+
+Q22. Two to One: https://www.codewars.com/kata/5656b6906de340bd1b0000ac
