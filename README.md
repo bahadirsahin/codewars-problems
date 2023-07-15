@@ -28,3 +28,5 @@ Q13. Counting Duplicates: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 Q14. Jaden Casing Strings: https://www.codewars.com/kata/5390bac347d09b7da40006f6
 
 Q15. Find The Parity Outlier: https://www.codewars.com/kata/5526fc09a1bbd946250002dc
+
+Q16. Beginner Series #3 Sum of Numbers: https://www.codewars.com/kata/55f2b110f61eb01779000053
