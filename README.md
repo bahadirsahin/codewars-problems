@@ -20,3 +20,5 @@ Q9. Stop gninnipS My sdroW!: https://www.codewars.com/kata/5264d2b162488dc400000
 Q10. Bit Counting: https://www.codewars.com/kata/526571aae218b8ee490006f4
 
 Q11. Duplicate Encoder: https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
+
+Q12. Complementary DNA: https://www.codewars.com/kata/554e4a2f232cdd87d9000038
