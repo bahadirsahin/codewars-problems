@@ -30,3 +30,5 @@ Q14. Jaden Casing Strings: https://www.codewars.com/kata/5390bac347d09b7da40006f
 Q15. Find The Parity Outlier: https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 
 Q16. Beginner Series #3 Sum of Numbers: https://www.codewars.com/kata/55f2b110f61eb01779000053
+
+Q17. Take a Ten Minutes Walk: https://www.codewars.com/kata/54da539698b8a2ad76000228

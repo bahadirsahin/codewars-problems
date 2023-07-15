@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set1.Q16(2, -1),
+		set1.Q17([]rune{'n', 's', 'n', 's', 'n', 's', 'n', 's', 'n', 's'}),
 	)
 }
