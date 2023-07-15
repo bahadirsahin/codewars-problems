@@ -34,3 +34,5 @@ Q16. Beginner Series #3 Sum of Numbers: https://www.codewars.com/kata/55f2b110f6
 Q17. Take a Ten Minutes Walk: https://www.codewars.com/kata/54da539698b8a2ad76000228
 
 Q18. Persistent Bugger.: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+
+Q19. Convert string to camel case: https://www.codewars.com/kata/517abf86da9663f1d2000003
