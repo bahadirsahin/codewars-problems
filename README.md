@@ -14,3 +14,5 @@ Q6. Highest and Lowest https://www.codewars.com/kata/554b4ac871d6813a03000035
 Q7. Sum of Digits / Digital Root: https://www.codewars.com/kata/541c8630095125aba6000c00
 
 Q8. Array Diff: https://www.codewars.com/kata/523f5d21c841566fde000009
+
+Q9. Stop gninnipS My sdroW!: https://www.codewars.com/kata/5264d2b162488dc400000001

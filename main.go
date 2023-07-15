@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set1.Q8([]int{1, 2, 2, 3}, []int{2}),
+		set1.Q9("Hey fellow warriors"),
 	)
 }
