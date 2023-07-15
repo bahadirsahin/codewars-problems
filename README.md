@@ -42,3 +42,5 @@ Q20. Moving Zeros To The End: https://www.codewars.com/kata/52597aa56021e91c9300
 Q21. Your order, please: https://www.codewars.com/kata/55c45be3b2079eccff00010f
 
 Q22. Two to One: https://www.codewars.com/kata/5656b6906de340bd1b0000ac
+
+Q23. Find the next perfect square!: https://www.codewars.com/kata/56269eb78ad2e4ced1000013
