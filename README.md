@@ -12,3 +12,5 @@ Q5. Find the odd int: https://www.codewars.com/kata/54da5a58ea159efa38000836
 Q6. Highest and Lowest https://www.codewars.com/kata/554b4ac871d6813a03000035
 
 Q7. Sum of Digits / Digital Root: https://www.codewars.com/kata/541c8630095125aba6000c00
+
+Q8. Array Diff: https://www.codewars.com/kata/523f5d21c841566fde000009
