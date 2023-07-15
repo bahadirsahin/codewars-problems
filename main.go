@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set1.Q14("How can mirrors be real if our eyes aren't real"),
+		set1.Q15([]int{160, 3, 1719, 19, 11, 13, -21}),
 	)
 }
