@@ -32,3 +32,5 @@ Q15. Find The Parity Outlier: https://www.codewars.com/kata/5526fc09a1bbd9462500
 Q16. Beginner Series #3 Sum of Numbers: https://www.codewars.com/kata/55f2b110f61eb01779000053
 
 Q17. Take a Ten Minutes Walk: https://www.codewars.com/kata/54da539698b8a2ad76000228
+
+Q18. Persistent Bugger.: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
