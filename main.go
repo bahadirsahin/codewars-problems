@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set1.Q3("alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta"),
+		set1.Q4(9),
 	)
 }
