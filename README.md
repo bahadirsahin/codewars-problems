@@ -24,3 +24,5 @@ Q11. Duplicate Encoder: https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
 Q12. Complementary DNA: https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 
 Q13. Counting Duplicates: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+
+Q14. Jaden Casing Strings: https://www.codewars.com/kata/5390bac347d09b7da40006f6
