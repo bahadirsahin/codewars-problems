@@ -46,3 +46,5 @@ Q22. Two to One: https://www.codewars.com/kata/5656b6906de340bd1b0000ac
 Q23. Find the next perfect square!: https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 
 Q24. Sum of odd numbers: https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
+
+Q25. Are they the "same"?: https://www.codewars.com/kata/550498447451fbbd7600041c
