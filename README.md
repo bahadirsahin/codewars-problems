@@ -52,3 +52,5 @@ Q25. Are they the "same"?: https://www.codewars.com/kata/550498447451fbbd7600041
 Q26. Is a number prime?: https://www.codewars.com/kata/5262119038c0985a5b00029f
 
 Q27. Reverse words: https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
+
+Q28. Find the unique number: https://www.codewars.com/kata/585d7d5adb20cf33cb000235
