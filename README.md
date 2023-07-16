@@ -74,3 +74,5 @@ Q36. Which are in?: https://www.codewars.com/kata/550554fd08b86f84fe000a58
 Q37. The highest profit wins!: https://www.codewars.com/kata/559590633066759614000063
 
 Q38. Build a pile of Cubes: https://www.codewars.com/kata/5592e3bd57b64d00f3000047
+
+Q39. Directions Reduction: https://www.codewars.com/kata/550f22f4d758534c1100025a

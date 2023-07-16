@@ -7,7 +7,9 @@ import (
 )
 
 func main() {
+	arr := []string{"NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"}
+
 	spew.Dump(
-		set2.Q38(4),
+		set2.Q39(arr),
 	)
 }
