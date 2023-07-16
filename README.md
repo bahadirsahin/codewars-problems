@@ -76,3 +76,5 @@ Q37. The highest profit wins!: https://www.codewars.com/kata/5595906330667596140
 Q38. Build a pile of Cubes: https://www.codewars.com/kata/5592e3bd57b64d00f3000047
 
 Q39. Directions Reduction: https://www.codewars.com/kata/550f22f4d758534c1100025a
+
+Q40. Find the missing letter: https://www.codewars.com/kata/5839edaa6754d6fec10000a2
