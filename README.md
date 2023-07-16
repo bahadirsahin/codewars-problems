@@ -66,3 +66,5 @@ Q32. Playing with digits: https://www.codewars.com/kata/5552101f47fc5178b1000050
 Q33. Equal Sides Of An Array: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
 
 Q34. Build Tower: https://www.codewars.com/kata/576757b1df89ecf5bd00073b
+
+Q35. Highest Scoring Word: https://www.codewars.com/kata/57eb8fcdf670e99d9b000272
