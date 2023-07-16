@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set1.Q28([]float32{0, -30, 0, 0, 0, 0, 0, 0, 0, 0}),
+		set1.Q29(3600),
 	)
 }
