@@ -50,3 +50,5 @@ Q24. Sum of odd numbers: https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
 Q25. Are they the "same"?: https://www.codewars.com/kata/550498447451fbbd7600041c
 
 Q26. Is a number prime?: https://www.codewars.com/kata/5262119038c0985a5b00029f
+
+Q27. Reverse words: https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
