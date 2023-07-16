@@ -60,3 +60,5 @@ Q29. Human Readable Time: https://www.codewars.com/kata/52685f7382004e774f0001f7
 Q30. Split Strings: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 
 Q31. Number of People in the Bus: https://www.codewars.com/kata/5648b12ce68d9daa6b000099
+
+Q32. Playing with digits: https://www.codewars.com/kata/5552101f47fc5178b1000050
