@@ -68,3 +68,5 @@ Q33. Equal Sides Of An Array: https://www.codewars.com/kata/5679aa472b8f57fb8c00
 Q34. Build Tower: https://www.codewars.com/kata/576757b1df89ecf5bd00073b
 
 Q35. Highest Scoring Word: https://www.codewars.com/kata/57eb8fcdf670e99d9b000272
+
+Q36. Which are in?: https://www.codewars.com/kata/550554fd08b86f84fe000a58

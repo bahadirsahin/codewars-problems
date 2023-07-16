@@ -7,7 +7,10 @@ import (
 )
 
 func main() {
+	var a1 = []string{"live", "arp", "strong"}
+	var a2 = []string{"lively", "alive", "harp", "sharp", "armstrong"}
+
 	spew.Dump(
-		set2.Q35("man i need a taxi up to ubud"),
+		set2.Q36(a1, a2),
 	)
 }
