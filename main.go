@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set2.Q40([]rune{'a', 'b', 'c', 'd', 'f'}),
+		set2.Q41(3, 0.66, 1.5),
 	)
 }

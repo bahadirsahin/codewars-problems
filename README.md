@@ -78,3 +78,5 @@ Q38. Build a pile of Cubes: https://www.codewars.com/kata/5592e3bd57b64d00f30000
 Q39. Directions Reduction: https://www.codewars.com/kata/550f22f4d758534c1100025a
 
 Q40. Find the missing letter: https://www.codewars.com/kata/5839edaa6754d6fec10000a2
+
+Q41. Bouncing Balls: https://www.codewars.com/kata/5544c7a5cb454edb3c000047
