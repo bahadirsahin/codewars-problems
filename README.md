@@ -58,3 +58,5 @@ Q28. Find the unique number: https://www.codewars.com/kata/585d7d5adb20cf33cb000
 Q29. Human Readable Time: https://www.codewars.com/kata/52685f7382004e774f0001f7
 
 Q30. Split Strings: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+
+Q31. Number of People in the Bus: https://www.codewars.com/kata/5648b12ce68d9daa6b000099
