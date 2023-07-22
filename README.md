@@ -146,3 +146,5 @@ Q72. Least Larger: https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4
 Q73. All Star Code Challenge #1: https://www.codewars.com/kata/5863f97fb3a675d9a700003f
 
 Q74. Number of Divisions: https://www.codewars.com/kata/5913152be0b295cf99000001
+
+Q75. Baby shark lyrics generator: https://www.codewars.com/kata/5d076515e102162ac0dc514e
