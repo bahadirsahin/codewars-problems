@@ -120,3 +120,5 @@ Q59. Love vs friendship: https://www.codewars.com/kata/59706036f6e5d1e22d000016
 Q60. Functional Addition: https://www.codewars.com/kata/538835ae443aae6e03000547
 
 Q61. Simple beads count: https://www.codewars.com/kata/58712dfa5c538b6fc7000569
+
+Q62. Ordered Count of Characters: https://www.codewars.com/kata/57a6633153ba33189e000074
