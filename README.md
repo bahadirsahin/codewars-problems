@@ -106,3 +106,5 @@ Q52. Round up to the next multiple of 5: https://www.codewars.com/kata/55d1d6d59
 Q53. Simple string characters: https://www.codewars.com/kata/5a29a0898f27f2d9c9000058
 
 Q54. Maximum Multiple: https://www.codewars.com/kata/5aba780a6a176b029800041c
+
+Q55. Are the numbers in order?: https://www.codewars.com/kata/56b7f2f3f18876033f000307
