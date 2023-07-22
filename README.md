@@ -156,3 +156,5 @@ Q77. Simple fibonacci strings: https://www.codewars.com/kata/5aa39ba75084d7cf450
 Q78. Strong Number (Special Numbers Series #2): https://www.codewars.com/kata/5a4d303f880385399b000001
 
 Q79. Extra Perfect Numbers (Special Numbers Series #7): https://www.codewars.com/kata/5a662a02e626c54e87000123
+
+Q80. Band name generator: https://www.codewars.com/kata/59727ff285281a44e3000011
