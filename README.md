@@ -174,3 +174,5 @@ Q86. Consecutive letters: https://www.codewars.com/kata/5ce6728c939bf80029988b57
 Q87. Multiply Word in String: https://www.codewars.com/kata/5ace2d9f307eb29430000092
 
 Q88. What dominates your array?: https://www.codewars.com/kata/559e10e2e162b69f750000b4
+
+Q89. GCD sum: https://www.codewars.com/kata/5dd259444228280032b1ed2a
