@@ -168,3 +168,5 @@ Q83. Password Hashes: https://www.codewars.com/kata/54207f9677730acd490000d1
 Q84. Frequency sequence: https://www.codewars.com/kata/585a033e3a36cdc50a00011c
 
 Q85. Is It Negative Zero (-0)?: https://www.codewars.com/kata/5c5086287bc6600001c7589a
+
+Q86. Consecutive letters: https://www.codewars.com/kata/5ce6728c939bf80029988b57
