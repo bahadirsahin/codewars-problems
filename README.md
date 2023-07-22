@@ -116,3 +116,7 @@ Q57. Factorial: https://www.codewars.com/kata/57a049e253ba33ac5e000212
 Q58. Sum of Cubes: https://www.codewars.com/kata/59a8570b570190d313000037
 
 Q59. Love vs friendship: https://www.codewars.com/kata/59706036f6e5d1e22d000016
+
+Q60. Functional Addition: https://www.codewars.com/kata/538835ae443aae6e03000547
+
+Q61. Simple beads count: https://www.codewars.com/kata/58712dfa5c538b6fc7000569

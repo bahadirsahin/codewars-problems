@@ -1,7 +1,13 @@
 package main
 
+import (
+	"codewars-problems/set3"
+
+	"github.com/davecgh/go-spew/spew"
+)
+
 func main() {
-	// spew.Dump(
-	// 	set2.Q60(1)(3)),
-	// )
+	spew.Dump(
+		set3.Q61(3),
+	)
 }
