@@ -130,3 +130,7 @@ Q64. V A P O R C O D E: https://www.codewars.com/kata/5966eeb31b229e44eb00007a
 Q65. Incrementer: https://www.codewars.com/kata/590e03aef55cab099a0002e8
 
 Q66. Char Code Calculation: https://www.codewars.com/kata/57f75cc397d62fc93d000059
+
+Q67. Cinderella and Go Channels: https://www.codewars.com/kata/62c0ad702af4fc0023ad5b89
+
+Q68. Scrabble Score: https://www.codewars.com/kata/558fa34727c2d274c10000ae
