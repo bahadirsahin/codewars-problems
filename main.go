@@ -1,13 +1,7 @@
 package main
 
-import (
-	"codewars-problems/set2"
-
-	"github.com/davecgh/go-spew/spew"
-)
-
 func main() {
-	spew.Dump(
-		set2.Q59("selfness"),
-	)
+	// spew.Dump(
+	// 	set2.Q60(1)(3)),
+	// )
 }
