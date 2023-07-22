@@ -1,15 +1,26 @@
 package set2
 
-func Q55(numbers []int) bool {
-	if len(numbers) < 2 {
-		return true
+import (
+	"strings"
+	"unicode"
+)
+
+func Q56(str string) string {
+	if len(str) == 0 {
+		return ""
 	}
 
-	for i := 0; i < len(numbers)-1; i++ {
-		if numbers[i] >= numbers[i+1] {
-			return false
+	upper := 0
+
+	for _, r := range str {
+		if unicode.IsUpper(r) {
+			upper++
 		}
 	}
 
-	return true
+	if upper > (len(str) / 2) {
+		return strings.ToUpper(str)
+	}
+
+	return strings.ToLower(str)
 }

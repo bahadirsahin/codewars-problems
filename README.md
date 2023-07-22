@@ -108,3 +108,5 @@ Q53. Simple string characters: https://www.codewars.com/kata/5a29a0898f27f2d9c90
 Q54. Maximum Multiple: https://www.codewars.com/kata/5aba780a6a176b029800041c
 
 Q55. Are the numbers in order?: https://www.codewars.com/kata/56b7f2f3f18876033f000307
+
+Q56. Fix string case: https://www.codewars.com/kata/5b180e9fedaa564a7000009a
