@@ -140,3 +140,5 @@ Q69. Coprime Validator: https://www.codewars.com/kata/585c50e75d0930e6a7000336
 Q70. Simple string reversal II: https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac
 
 Q71. Easy Line: https://www.codewars.com/kata/56e7d40129035aed6c000632 ???
+
+Q72. Least Larger: https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4
