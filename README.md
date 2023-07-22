@@ -96,3 +96,5 @@ Q47. Count The Digit: https://www.codewars.com/kata/566fc12495810954b1000030
 Q48. Don't give me five!: https://www.codewars.com/kata/5813d19765d81c592200001a
 
 Q49. Two Oldest Ages: https://www.codewars.com/kata/511f11d355fe575d2c000001
+
+Q50. Sum of angles: https://www.codewars.com/kata/5a03b3f6a1c9040084001765
