@@ -86,3 +86,5 @@ Q42. Human readable duration format: https://www.codewars.com/kata/52742f58faf54
 Q43. Count the divisors of a number: https://www.codewars.com/kata/542c0f198e077084c0000c2e
 
 Q44. Sort Numbers: https://www.codewars.com/kata/5174a4c0f2769dd8b1000003
+
+Q45. Breaking chocolate problem: https://www.codewars.com/kata/534ea96ebb17181947000ada
