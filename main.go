@@ -8,8 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set3.Q86("abc"),
-		set3.Q86("abd"),
-		set3.Q86("abbc"),
+		set3.Q87("This is a string", 3, 5),
 	)
 }
