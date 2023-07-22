@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set3.Q64("Why isnt my code working"),
+		set3.Q65([]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 9, 9, 9, 9, 8}),
 	)
 }
