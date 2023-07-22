@@ -84,3 +84,5 @@ Q41. Bouncing Balls: https://www.codewars.com/kata/5544c7a5cb454edb3c000047
 Q42. Human readable duration format: https://www.codewars.com/kata/52742f58faf5485cae000b9a
 
 Q43. Count the divisors of a number: https://www.codewars.com/kata/542c0f198e077084c0000c2e
+
+Q44. Sort Numbers: https://www.codewars.com/kata/5174a4c0f2769dd8b1000003
