@@ -98,3 +98,5 @@ Q48. Don't give me five!: https://www.codewars.com/kata/5813d19765d81c592200001a
 Q49. Two Oldest Ages: https://www.codewars.com/kata/511f11d355fe575d2c000001
 
 Q50. Sum of angles: https://www.codewars.com/kata/5a03b3f6a1c9040084001765
+
+Q51. Find the middle element: https://www.codewars.com/kata/545a4c5a61aa4c6916000755
