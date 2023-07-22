@@ -104,3 +104,5 @@ Q51. Find the middle element: https://www.codewars.com/kata/545a4c5a61aa4c691600
 Q52. Round up to the next multiple of 5: https://www.codewars.com/kata/55d1d6d5955ec6365400006d
 
 Q53. Simple string characters: https://www.codewars.com/kata/5a29a0898f27f2d9c9000058
+
+Q54. Maximum Multiple: https://www.codewars.com/kata/5aba780a6a176b029800041c
