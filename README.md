@@ -128,3 +128,5 @@ Q63. All unique: https://www.codewars.com/kata/553e8b195b853c6db4000048
 Q64. V A P O R C O D E: https://www.codewars.com/kata/5966eeb31b229e44eb00007a
 
 Q65. Incrementer: https://www.codewars.com/kata/590e03aef55cab099a0002e8
+
+Q66. Char Code Calculation: https://www.codewars.com/kata/57f75cc397d62fc93d000059
