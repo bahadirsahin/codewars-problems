@@ -88,3 +88,5 @@ Q43. Count the divisors of a number: https://www.codewars.com/kata/542c0f198e077
 Q44. Sort Numbers: https://www.codewars.com/kata/5174a4c0f2769dd8b1000003
 
 Q45. Breaking chocolate problem: https://www.codewars.com/kata/534ea96ebb17181947000ada
+
+Q46. Make a function that does arithmetic!: https://www.codewars.com/kata/583f158ea20cfcbeb400000a
