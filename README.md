@@ -148,3 +148,5 @@ Q73. All Star Code Challenge #1: https://www.codewars.com/kata/5863f97fb3a675d9a
 Q74. Number of Divisions: https://www.codewars.com/kata/5913152be0b295cf99000001
 
 Q75. Baby shark lyrics generator: https://www.codewars.com/kata/5d076515e102162ac0dc514e
+
+Q76. Interlocking Binary Pairs: https://www.codewars.com/kata/628e3ee2e1daf90030239e8a
