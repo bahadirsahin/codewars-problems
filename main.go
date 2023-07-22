@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set3.Q62("abracadabra"),
+		set3.Q64("Why isnt my code working"),
 	)
 }

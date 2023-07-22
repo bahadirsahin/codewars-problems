@@ -122,3 +122,7 @@ Q60. Functional Addition: https://www.codewars.com/kata/538835ae443aae6e03000547
 Q61. Simple beads count: https://www.codewars.com/kata/58712dfa5c538b6fc7000569
 
 Q62. Ordered Count of Characters: https://www.codewars.com/kata/57a6633153ba33189e000074
+
+Q63. All unique: https://www.codewars.com/kata/553e8b195b853c6db4000048
+
+Q64. V A P O R C O D E: https://www.codewars.com/kata/5966eeb31b229e44eb00007a
