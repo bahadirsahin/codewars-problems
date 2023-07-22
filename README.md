@@ -162,3 +162,5 @@ Q80. Band name generator: https://www.codewars.com/kata/59727ff285281a44e3000011
 Q81. Simple Fun #2: Circle of Numbers: https://www.codewars.com/kata/58841cb52a077503c4000015
 
 Q82. Stanton measure: https://www.codewars.com/kata/59a1cdde9f922b83ee00003b
+
+Q83. Password Hashes: https://www.codewars.com/kata/54207f9677730acd490000d1
