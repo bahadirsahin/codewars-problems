@@ -8,6 +8,7 @@ import (
 
 func main() {
 	spew.Dump(
-		set3.Q83("password"),
+		set3.Q84("hello world", "-"),
+		set3.Q84("19999999", ":"),
 	)
 }
