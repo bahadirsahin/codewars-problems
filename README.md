@@ -158,3 +158,5 @@ Q78. Strong Number (Special Numbers Series #2): https://www.codewars.com/kata/5a
 Q79. Extra Perfect Numbers (Special Numbers Series #7): https://www.codewars.com/kata/5a662a02e626c54e87000123
 
 Q80. Band name generator: https://www.codewars.com/kata/59727ff285281a44e3000011
+
+Q81. Simple Fun #2: Circle of Numbers: https://www.codewars.com/kata/58841cb52a077503c4000015
