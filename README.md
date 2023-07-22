@@ -112,3 +112,5 @@ Q55. Are the numbers in order?: https://www.codewars.com/kata/56b7f2f3f18876033f
 Q56. Fix string case: https://www.codewars.com/kata/5b180e9fedaa564a7000009a
 
 Q57. Factorial: https://www.codewars.com/kata/57a049e253ba33ac5e000212
+
+Q58. Sum of Cubes: https://www.codewars.com/kata/59a8570b570190d313000037
