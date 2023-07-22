@@ -142,3 +142,7 @@ Q70. Simple string reversal II: https://www.codewars.com/kata/5a8d1c82373c2e099d
 Q71. Easy Line: https://www.codewars.com/kata/56e7d40129035aed6c000632 ???
 
 Q72. Least Larger: https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4
+
+Q73. All Star Code Challenge #1: https://www.codewars.com/kata/5863f97fb3a675d9a700003f
+
+Q74. Number of Divisions: https://www.codewars.com/kata/5913152be0b295cf99000001
