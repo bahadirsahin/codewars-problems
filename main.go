@@ -7,11 +7,9 @@ import (
 )
 
 func main() {
+	param := "RYT'>s&gO-.CM9AKeH?,5317tWGpS<*x2ukXZD"
+
 	spew.Dump(
-		set2.Q52(120),
-		set2.Q52(121),
-		set2.Q52(-120),
-		set2.Q52(-121),
-		set2.Q52(-68414),
+		set2.Q53(param),
 	)
 }
