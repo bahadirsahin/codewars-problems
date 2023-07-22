@@ -134,3 +134,5 @@ Q66. Char Code Calculation: https://www.codewars.com/kata/57f75cc397d62fc93d0000
 Q67. Cinderella and Go Channels: https://www.codewars.com/kata/62c0ad702af4fc0023ad5b89
 
 Q68. Scrabble Score: https://www.codewars.com/kata/558fa34727c2d274c10000ae
+
+Q69. Coprime Validator: https://www.codewars.com/kata/585c50e75d0930e6a7000336
