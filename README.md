@@ -90,3 +90,5 @@ Q44. Sort Numbers: https://www.codewars.com/kata/5174a4c0f2769dd8b1000003
 Q45. Breaking chocolate problem: https://www.codewars.com/kata/534ea96ebb17181947000ada
 
 Q46. Make a function that does arithmetic!: https://www.codewars.com/kata/583f158ea20cfcbeb400000a
+
+Q47. Count The Digit: https://www.codewars.com/kata/566fc12495810954b1000030
