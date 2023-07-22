@@ -138,3 +138,5 @@ Q68. Scrabble Score: https://www.codewars.com/kata/558fa34727c2d274c10000ae
 Q69. Coprime Validator: https://www.codewars.com/kata/585c50e75d0930e6a7000336
 
 Q70. Simple string reversal II: https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac
+
+Q71. Easy Line: https://www.codewars.com/kata/56e7d40129035aed6c000632 ???
