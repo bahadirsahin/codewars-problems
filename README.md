@@ -114,3 +114,5 @@ Q56. Fix string case: https://www.codewars.com/kata/5b180e9fedaa564a7000009a
 Q57. Factorial: https://www.codewars.com/kata/57a049e253ba33ac5e000212
 
 Q58. Sum of Cubes: https://www.codewars.com/kata/59a8570b570190d313000037
+
+Q59. Love vs friendship: https://www.codewars.com/kata/59706036f6e5d1e22d000016
