@@ -152,3 +152,5 @@ Q75. Baby shark lyrics generator: https://www.codewars.com/kata/5d076515e102162a
 Q76. Interlocking Binary Pairs: https://www.codewars.com/kata/628e3ee2e1daf90030239e8a
 
 Q77. Simple fibonacci strings: https://www.codewars.com/kata/5aa39ba75084d7cf45000008
+
+Q78. Strong Number (Special Numbers Series #2): https://www.codewars.com/kata/5a4d303f880385399b000001
