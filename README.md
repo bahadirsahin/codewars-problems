@@ -176,3 +176,5 @@ Q87. Multiply Word in String: https://www.codewars.com/kata/5ace2d9f307eb2943000
 Q88. What dominates your array?: https://www.codewars.com/kata/559e10e2e162b69f750000b4
 
 Q89. GCD sum: https://www.codewars.com/kata/5dd259444228280032b1ed2a
+
+Q90. Most valuable character: https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd
