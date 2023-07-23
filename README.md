@@ -216,3 +216,5 @@ Q107. Count the divisible numbers: https://www.codewars.com/kata/55a5c82cd8e9baa
 Q108. Simple string reversal: https://www.codewars.com/kata/5a71939d373c2e634200008e
 
 Q109. Two Sum: https://www.codewars.com/kata/52c31f8e6605bcc646000082
+
+Q110. Consecutive strings: https://www.codewars.com/kata/56a5d994ac971f1ac500003e

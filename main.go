@@ -8,6 +8,10 @@ import (
 
 func main() {
 	spew.Dump(
-		set4.Q109([]int{1234, 5678, 9012}, 14690), // To(Equal([2]int{1, 2}))
+		// "abigailtheta"
+		set4.Q110(
+			[]string{"zone", "abigail", "theta", "form", "libe", "zas"},
+			2,
+		),
 	)
 }
