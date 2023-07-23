@@ -8,7 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		// set4.Q108("codewars"), // "srawedoc"
-		set4.Q108("your code rocks"), // "skco redo cruoy"
+		set4.Q109([]int{1234, 5678, 9012}, 14690), // To(Equal([2]int{1, 2}))
 	)
 }
