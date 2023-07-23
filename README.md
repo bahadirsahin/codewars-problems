@@ -184,3 +184,5 @@ Q91. Valid Braces: https://www.codewars.com/kata/5277c8a221e209d3f6000b56
 Q92. Backspaces in string: https://www.codewars.com/kata/5727bb0fe81185ae62000ae3
 
 Q93. Spacify: https://www.codewars.com/kata/57f8ee485cae443c4d000127
+
+Q94. Sum of integers in string: https://www.codewars.com/kata/598f76a44f613e0e0b000026
