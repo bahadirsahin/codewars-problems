@@ -192,3 +192,5 @@ Q95. uniq (UNIX style): https://www.codewars.com/kata/52249faee9abb9cefa0001ee
 Q96. Area of an arrow: https://www.codewars.com/kata/589478160c0f8a40870000bc
 
 Q97. Fibonacci: https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af
+
+Q98. Collatz: https://www.codewars.com/kata/5286b2e162056fd0cb000c20
