@@ -182,3 +182,5 @@ Q90. Most valuable character: https://www.codewars.com/kata/5500d54c2ebe0a8e8a00
 Q91. Valid Braces: https://www.codewars.com/kata/5277c8a221e209d3f6000b56
 
 Q92. Backspaces in string: https://www.codewars.com/kata/5727bb0fe81185ae62000ae3
+
+Q93. Spacify: https://www.codewars.com/kata/57f8ee485cae443c4d000127
