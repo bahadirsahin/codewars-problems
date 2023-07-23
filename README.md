@@ -188,3 +188,5 @@ Q93. Spacify: https://www.codewars.com/kata/57f8ee485cae443c4d000127
 Q94. Sum of integers in string: https://www.codewars.com/kata/598f76a44f613e0e0b000026
 
 Q95. uniq (UNIX style): https://www.codewars.com/kata/52249faee9abb9cefa0001ee
+
+Q96. Area of an arrow: https://www.codewars.com/kata/589478160c0f8a40870000bc

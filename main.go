@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set4.Q95([]string{"a", "a", "b", "b", "c", "a", "b", "c", "c"}),
+		set4.Q96(25, 25),
 	)
 }
