@@ -8,7 +8,9 @@ import (
 
 func main() {
 	spew.Dump(
-		set4.Q91("([{}])"),
-		set4.Q91("[({)](]"),
+		set4.Q92("abc#d##c"),
+		set4.Q92("abc##d######"),
+		set4.Q92("#######"),
+		set4.Q92(""),
 	)
 }

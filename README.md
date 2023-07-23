@@ -180,3 +180,5 @@ Q89. GCD sum: https://www.codewars.com/kata/5dd259444228280032b1ed2a
 Q90. Most valuable character: https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd
 
 Q91. Valid Braces: https://www.codewars.com/kata/5277c8a221e209d3f6000b56
+
+Q92. Backspaces in string: https://www.codewars.com/kata/5727bb0fe81185ae62000ae3
