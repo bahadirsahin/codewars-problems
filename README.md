@@ -212,3 +212,5 @@ Q105. Indexed capitalization: https://www.codewars.com/kata/59cfc09a86a6fdf6df00
 Q106. Mexican Wave: https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
 
 Q107. Count the divisible numbers: https://www.codewars.com/kata/55a5c82cd8e9baa49000004c
+
+Q108. Simple string reversal: https://www.codewars.com/kata/5a71939d373c2e634200008e
