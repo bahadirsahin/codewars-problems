@@ -204,3 +204,5 @@ Q101. Handshake problem: https://www.codewars.com/kata/5574835e3e404a0bed00001b
 Q102. Multiplication table: https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
 
 Q103. Make the Deadfish Swim: https://www.codewars.com/kata/51e0007c1f9378fa810002a9
+
+Q104. WeIrD StRiNg CaSe: https://www.codewars.com/kata/52b757663a95b11b3d00062d

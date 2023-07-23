@@ -8,6 +8,6 @@ import (
 
 func main() {
 	spew.Dump(
-		set4.Q103("isoisoiso"),
+		set4.Q104("This is a test Looks like you passed"),
 	)
 }
