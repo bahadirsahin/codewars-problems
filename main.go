@@ -8,6 +8,7 @@ import (
 
 func main() {
 	spew.Dump(
-		set4.Q105("abracadabra", []int{2, 6, 9, 10}),
+		// set4.Q106("hello"),
+		set4.Q106(" x yz"),
 	)
 }

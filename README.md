@@ -208,3 +208,5 @@ Q103. Make the Deadfish Swim: https://www.codewars.com/kata/51e0007c1f9378fa8100
 Q104. WeIrD StRiNg CaSe: https://www.codewars.com/kata/52b757663a95b11b3d00062d
 
 Q105. Indexed capitalization: https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1
+
+Q106. Mexican Wave: https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
