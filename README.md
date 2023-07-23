@@ -210,3 +210,5 @@ Q104. WeIrD StRiNg CaSe: https://www.codewars.com/kata/52b757663a95b11b3d00062d
 Q105. Indexed capitalization: https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1
 
 Q106. Mexican Wave: https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
+
+Q107. Count the divisible numbers: https://www.codewars.com/kata/55a5c82cd8e9baa49000004c
