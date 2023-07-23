@@ -1,13 +1,14 @@
 package main
 
 import (
-	"codewars-problems/set3"
+	"codewars-problems/set4"
 
 	"github.com/davecgh/go-spew/spew"
 )
 
 func main() {
 	spew.Dump(
-		set3.Q90(30, 12),
+		set4.Q91("([{}])"),
+		set4.Q91("[({)](]"),
 	)
 }
