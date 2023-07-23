@@ -8,10 +8,7 @@ import (
 
 func main() {
 	spew.Dump(
-		// "abigailtheta"
-		set4.Q110(
-			[]string{"zone", "abigail", "theta", "form", "libe", "zas"},
-			2,
-		),
+		// set4.Q111([]int{-2, 1, -3, 4, -1, 2, 1, -5, 4}),
+		set4.Q111([]int{-2, -1, -3, -4, -1, -2, -1, -5, -4}),
 	)
 }

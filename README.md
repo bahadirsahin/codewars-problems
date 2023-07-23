@@ -218,3 +218,5 @@ Q108. Simple string reversal: https://www.codewars.com/kata/5a71939d373c2e634200
 Q109. Two Sum: https://www.codewars.com/kata/52c31f8e6605bcc646000082
 
 Q110. Consecutive strings: https://www.codewars.com/kata/56a5d994ac971f1ac500003e
+
+Q111. Maximum subarray sum: https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c
