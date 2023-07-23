@@ -198,3 +198,5 @@ Q98. Collatz: https://www.codewars.com/kata/5286b2e162056fd0cb000c20
 Q99. Reverse list: https://www.codewars.com/kata/57a04da9e298a7ee43000111
 
 Q100. Heron's formula: https://www.codewars.com/kata/57aa218e72292d98d500240f
+
+Q101. Handshake problem: https://www.codewars.com/kata/5574835e3e404a0bed00001b
