@@ -228,3 +228,5 @@ Q113. Array element parity: https://www.codewars.com/kata/5a096d9e46d843b9db0000
 Q114. Alphabetical Addition: https://www.codewars.com/kata/5d50e3914861a500121e1958
 
 Q115. Rotate for a Max: https://www.codewars.com/kata/56a4872cbb65f3a610000026
+
+Q116. Simple Fun #152: Invite More Women?: https://www.codewars.com/kata/58acfe4ae0201e1708000075
