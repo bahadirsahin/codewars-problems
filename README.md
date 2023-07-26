@@ -222,3 +222,5 @@ Q110. Consecutive strings: https://www.codewars.com/kata/56a5d994ac971f1ac500003
 Q111. Maximum subarray sum: https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c
 
 Q112. Maximum Length Difference: https://www.codewars.com/kata/5663f5305102699bad000056
+
+Q113. Array element parity: https://www.codewars.com/kata/5a096d9e46d843b9db000064

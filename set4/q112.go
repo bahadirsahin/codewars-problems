@@ -2,7 +2,7 @@ package set4
 
 import "math"
 
-func Q1(a1 []string, a2 []string) int {
+func Q112(a1 []string, a2 []string) int {
 	if len(a1) == 0 || len(a2) == 0 {
 		return -1
 	}
