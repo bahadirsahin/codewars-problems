@@ -220,3 +220,5 @@ Q109. Two Sum: https://www.codewars.com/kata/52c31f8e6605bcc646000082
 Q110. Consecutive strings: https://www.codewars.com/kata/56a5d994ac971f1ac500003e
 
 Q111. Maximum subarray sum: https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c
+
+Q112. Maximum Length Difference: https://www.codewars.com/kata/5663f5305102699bad000056
