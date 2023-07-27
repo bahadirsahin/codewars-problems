@@ -268,3 +268,5 @@ Q133. Count IP Addresses: https://www.codewars.com/kata/526989a41034285187000de4
 Q134. IP Validation: https://www.codewars.com/kata/515decfd9dcfc23bb6000006
 
 Q135. ISBN-10 Validation: https://www.codewars.com/kata/51fc12de24a9d8cb0e000001
+
+Q136. Calculate the area of a regular n sides polygon inside a circle of radius r: https://www.codewars.com/kata/5a58ca28e626c55ae000018a
