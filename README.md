@@ -246,3 +246,5 @@ Q122. Product of consecutive Fib numbers: https://www.codewars.com/kata/5541f58a
 Q123. First non-repeating character: https://www.codewars.com/kata/52bc74d4ac05d0945d00054e
 
 Q124. Weight for weight: https://www.codewars.com/kata/55c6126177c9441a570000cc
+
+Q125. Number of trailing zeros of N!: https://www.codewars.com/kata/52f787eb172a8b4ae1000a34
