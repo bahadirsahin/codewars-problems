@@ -258,3 +258,5 @@ Q128. Not very secure: https://www.codewars.com/kata/526dbd6c8c0eb53254000110
 Q129. Primes in numbers: https://www.codewars.com/kata/54d512e62a5e54c96200019e
 
 Q130. Integers: Recreation One: https://www.codewars.com/kata/55aa075506463dac6600010d
+
+Q131. Sums of Parts: https://www.codewars.com/kata/5ce399e0047a45001c853c2b
