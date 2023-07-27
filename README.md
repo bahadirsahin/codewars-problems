@@ -244,3 +244,5 @@ Q121. Pete, the baker: https://www.codewars.com/kata/525c65e51bf619685c000059
 Q122. Product of consecutive Fib numbers: https://www.codewars.com/kata/5541f58a944b85ce6d00006a
 
 Q123. First non-repeating character: https://www.codewars.com/kata/52bc74d4ac05d0945d00054e
+
+Q124. Weight for weight: https://www.codewars.com/kata/55c6126177c9441a570000cc
