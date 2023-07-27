@@ -1,4 +1,4 @@
-package set4
+package set5
 
 func Q122(prod uint64) [3]uint64 {
 	if prod < 0 {
