@@ -8,6 +8,7 @@ import (
 
 func main() {
 	spew.Dump(
-		set5.Q127([]int{123232, 694022, 140249}),
+		set5.Q128("43534h56jmTHHF3k"),
+		set5.Q128("43534h56j.mTHHF3k"),
 	)
 }

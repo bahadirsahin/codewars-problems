@@ -252,3 +252,5 @@ Q125. Number of trailing zeros of N!: https://www.codewars.com/kata/52f787eb172a
 Q126. Last digit of a large number: https://www.codewars.com/kata/5511b2f550906349a70004e1
 
 Q127. Last digit of a huge number: https://www.codewars.com/kata/5518a860a73e708c0a000027
+
+Q128. Not very secure: https://www.codewars.com/kata/526dbd6c8c0eb53254000110
