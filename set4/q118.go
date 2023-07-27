@@ -2,7 +2,7 @@ package set4
 
 import "math"
 
-func Q7(s string) rune {
+func Q118(s string) rune {
 	if len(s) == 0 {
 		return 0
 	}

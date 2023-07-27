@@ -2,7 +2,7 @@ package set4
 
 import "math"
 
-func Q7(n int) int {
+func Q125(n int) int {
 	if n == 0 {
 		return 0
 	}
