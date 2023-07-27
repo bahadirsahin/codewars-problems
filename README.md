@@ -264,3 +264,5 @@ Q131. Sums of Parts: https://www.codewars.com/kata/5ce399e0047a45001c853c2b
 Q132. int32 to IPv4: https://www.codewars.com/kata/52e88b39ffb6ac53a400022e
 
 Q133. Count IP Addresses: https://www.codewars.com/kata/526989a41034285187000de4
+
+Q134. IP Validation: https://www.codewars.com/kata/515decfd9dcfc23bb6000006
