@@ -240,3 +240,5 @@ Q119. Tribonacci Sequence: https://www.codewars.com/kata/556deca17c58da83c00002d
 Q120. Decode the Morse code: https://www.codewars.com/kata/54b724efac3d5402db00065e
 
 Q121. Pete, the baker: https://www.codewars.com/kata/525c65e51bf619685c000059
+
+Q122. Product of consecutive Fib numbers: https://www.codewars.com/kata/5541f58a944b85ce6d00006a
