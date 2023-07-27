@@ -260,3 +260,5 @@ Q129. Primes in numbers: https://www.codewars.com/kata/54d512e62a5e54c96200019e
 Q130. Integers: Recreation One: https://www.codewars.com/kata/55aa075506463dac6600010d
 
 Q131. Sums of Parts: https://www.codewars.com/kata/5ce399e0047a45001c853c2b
+
+Q132. int32 to IPv4: https://www.codewars.com/kata/52e88b39ffb6ac53a400022e
