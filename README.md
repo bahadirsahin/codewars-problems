@@ -234,3 +234,9 @@ Q116. Simple Fun #152: Invite More Women?: https://www.codewars.com/kata/58acfe4
 Q117. Mirror, mirror, on the wall...: https://www.codewars.com/kata/5f55ecd770692e001484af7d
 
 Q118. Most valuable character: https://www.codewars.com/kata/5dd5128f16eced000e4c42ba
+
+Q119. Tribonacci Sequence: https://www.codewars.com/kata/556deca17c58da83c00002db
+
+Q120. Decode the Morse code: https://www.codewars.com/kata/54b724efac3d5402db00065e
+
+Q121. Pete, the baker: https://www.codewars.com/kata/525c65e51bf619685c000059
