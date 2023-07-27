@@ -248,3 +248,5 @@ Q123. First non-repeating character: https://www.codewars.com/kata/52bc74d4ac05d
 Q124. Weight for weight: https://www.codewars.com/kata/55c6126177c9441a570000cc
 
 Q125. Number of trailing zeros of N!: https://www.codewars.com/kata/52f787eb172a8b4ae1000a34
+
+Q126. Last digit of a large number: https://www.codewars.com/kata/5511b2f550906349a70004e1
