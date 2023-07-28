@@ -296,3 +296,5 @@ Q147. Roman Numerals Encoder: https://www.codewars.com/kata/51b62bf6a9c58071c600
 Q148. Roman Numerals Decoder: https://www.codewars.com/kata/51b6249c4612257ac0000005
 
 Q149. Tic-Tac-Toe Checker: https://www.codewars.com/kata/525caa5c1bf619d28c000335
+
+Q150. Meeting: https://www.codewars.com/kata/59df2f8f08c6cec835000012
