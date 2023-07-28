@@ -290,3 +290,5 @@ Q144. Parts of a list: https://www.codewars.com/kata/56f3a1e899b386da78000732
 Q145. Consonant value: https://www.codewars.com/kata/59c633e7dcc4053512000073
 
 Q146. Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!: https://www.codewars.com/kata/5626b561280a42ecc50000d1
+
+Q147. Roman Numerals Encoder: https://www.codewars.com/kata/51b62bf6a9c58071c600001b
