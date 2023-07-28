@@ -286,3 +286,5 @@ Q142. compute cube as sums: https://www.codewars.com/kata/58af1bb7ac7e31b1920000
 Q143. Simple max digit sum: https://www.codewars.com/kata/5b162ed4c8c47ea2f5000023
 
 Q144. Parts of a list: https://www.codewars.com/kata/56f3a1e899b386da78000732
+
+Q145. Consonant value: https://www.codewars.com/kata/59c633e7dcc4053512000073
