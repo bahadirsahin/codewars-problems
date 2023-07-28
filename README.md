@@ -282,3 +282,5 @@ Q140. Sum of prime-indexed elements: https://www.codewars.com/kata/59f38b033640c
 Q141. Pell Numbers: https://www.codewars.com/kata/5818d00a559ff57a2f000082
 
 Q142. compute cube as sums: https://www.codewars.com/kata/58af1bb7ac7e31b192000020
+
+Q143. Simple max digit sum: https://www.codewars.com/kata/5b162ed4c8c47ea2f5000023
