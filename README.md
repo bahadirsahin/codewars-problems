@@ -272,3 +272,5 @@ Q135. ISBN-10 Validation: https://www.codewars.com/kata/51fc12de24a9d8cb0e000001
 Q136. Calculate the area of a regular n sides polygon inside a circle of radius r: https://www.codewars.com/kata/5a58ca28e626c55ae000018a
 
 Q137. Pyramid Array: https://www.codewars.com/kata/515f51d438015969f7000013
+
+Q138. Highest Rank Number in an Array: https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004
