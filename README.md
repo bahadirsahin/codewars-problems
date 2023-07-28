@@ -276,3 +276,5 @@ Q137. Pyramid Array: https://www.codewars.com/kata/515f51d438015969f7000013
 Q138. Highest Rank Number in an Array: https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004
 
 Q139. Mutual Recursion: https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b
+
+Q140. Sum of prime-indexed elements: https://www.codewars.com/kata/59f38b033640ce9fc700015b
