@@ -278,3 +278,5 @@ Q138. Highest Rank Number in an Array: https://www.codewars.com/kata/5420fc9bb5b
 Q139. Mutual Recursion: https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b
 
 Q140. Sum of prime-indexed elements: https://www.codewars.com/kata/59f38b033640ce9fc700015b
+
+Q141. Pell Numbers: https://www.codewars.com/kata/5818d00a559ff57a2f000082
