@@ -312,3 +312,5 @@ Q155. So Many Permutations!: https://www.codewars.com/kata/5254ca2719453dcc0b000
 Q156. Next bigger number with the same digits: https://www.codewars.com/kata/55983863da40caa2c900004e
 
 Q157. Sum of Intervals: https://www.codewars.com/kata/52b7ed099cdc285c300001cd
+
+Q158. Twice Linear: https://www.codewars.com/kata/5672682212c8ecf83e000050
