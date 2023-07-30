@@ -298,3 +298,5 @@ Q148. Roman Numerals Decoder: https://www.codewars.com/kata/51b6249c4612257ac000
 Q149. Tic-Tac-Toe Checker: https://www.codewars.com/kata/525caa5c1bf619d28c000335
 
 Q150. Meeting: https://www.codewars.com/kata/59df2f8f08c6cec835000012
+
+Q151. The Supermarket Queue: https://www.codewars.com/kata/57b06f90e298a7b53d000a86

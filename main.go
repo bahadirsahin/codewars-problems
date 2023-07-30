@@ -1,15 +1,13 @@
 package main
 
 import (
-	"codewars-problems/set5"
+	"codewars-problems/set6"
 
 	"github.com/davecgh/go-spew/spew"
 )
 
 func main() {
 	spew.Dump(
-		set5.Q143(100),         // 99
-		set5.Q143(2090),        // 1999
-		set5.Q143(10193497399), // 1999
+		set6.Q146([]int{2, 2, 3, 3, 4, 4}, 2), // 9
 	)
 }
