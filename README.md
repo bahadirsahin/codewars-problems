@@ -308,3 +308,5 @@ Q153. Snail: https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
 Q154. Range Extraction: https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
 
 Q155. So Many Permutations!: https://www.codewars.com/kata/5254ca2719453dcc0b00027d
+
+Q156. Next bigger number with the same digits: https://www.codewars.com/kata/55983863da40caa2c900004e
