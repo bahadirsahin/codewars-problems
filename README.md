@@ -310,3 +310,5 @@ Q154. Range Extraction: https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
 Q155. So Many Permutations!: https://www.codewars.com/kata/5254ca2719453dcc0b00027d
 
 Q156. Next bigger number with the same digits: https://www.codewars.com/kata/55983863da40caa2c900004e
+
+Q157. Sum of Intervals: https://www.codewars.com/kata/52b7ed099cdc285c300001cd
