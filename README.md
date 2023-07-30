@@ -302,3 +302,5 @@ Q150. Meeting: https://www.codewars.com/kata/59df2f8f08c6cec835000012
 Q151. The Supermarket Queue: https://www.codewars.com/kata/57b06f90e298a7b53d000a86
 
 Q152. Perimeter of squares in a rectangle: https://www.codewars.com/kata/559a28007caad2ac4e000083
+
+Q153. Snail: https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
