@@ -314,3 +314,5 @@ Q156. Next bigger number with the same digits: https://www.codewars.com/kata/559
 Q157. Sum of Intervals: https://www.codewars.com/kata/52b7ed099cdc285c300001cd
 
 Q158. Twice Linear: https://www.codewars.com/kata/5672682212c8ecf83e000050
+
+Q159. Beeramid: https://www.codewars.com/kata/51e04f6b544cf3f6550000c1
