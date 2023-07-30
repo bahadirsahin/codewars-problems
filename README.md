@@ -306,3 +306,5 @@ Q152. Perimeter of squares in a rectangle: https://www.codewars.com/kata/559a280
 Q153. Snail: https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
 
 Q154. Range Extraction: https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
+
+Q155. So Many Permutations!: https://www.codewars.com/kata/5254ca2719453dcc0b00027d
