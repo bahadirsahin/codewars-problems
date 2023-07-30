@@ -304,3 +304,5 @@ Q151. The Supermarket Queue: https://www.codewars.com/kata/57b06f90e298a7b53d000
 Q152. Perimeter of squares in a rectangle: https://www.codewars.com/kata/559a28007caad2ac4e000083
 
 Q153. Snail: https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+
+Q154. Range Extraction: https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
